@@ -35,7 +35,7 @@ I'm a passionate software developer focused on building robust web applications 
 ## 🌟 Featured Projects
 
 ### Project 1
-📌 [Text Cat]((https://github.com/vgthomson/TEXTCAT.git))
+📌 [Text Cat](https://github.com/vgthomson/TEXTCAT.git))
 - Detecting emotions of the feedbacks of a restaurant using a pretrained machine learning model.
 - Key technologies used: HTML, CSS, JS, Python, Django
 
