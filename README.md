@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [ V G Thomson]
+# 👋 Hi there, I'm V G Thomson
 
 ### 🚀 Full Stack Developer | Python & Django Specialist
 
