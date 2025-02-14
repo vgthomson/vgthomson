@@ -40,7 +40,7 @@ I'm a passionate software developer focused on building robust web applications 
 - Key technologies used: HTML, CSS, JS, Python, Django
 
 ### Project 2
-📌 [Project Name](https://github.com/vgthomson/MOODIFY.git)
+📌 [Moodify](https://github.com/vgthomson/MOODIFY.git)
 - Moodify recommends songs and playlists by interpreting emotions from user input.
 - Key technologies used: HTML, CSS, JS, Python, Django
 
